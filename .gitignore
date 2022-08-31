@@ -1,0 +1,13 @@
+Thumbs.db
+Desktop.ini
+*.swp
+
+/Library
+/Logs
+/Recordings
+/Temp
+/UserSettings
+
+/Plugin/*.bundle
+/Plugin/*.lock
+/Plugin/target
